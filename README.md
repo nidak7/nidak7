@@ -30,12 +30,12 @@ SQL, Python and Power BI analysis of 7,043 telecom customers: who leaves, why, a
 - Month-to-month contracts churn at 42.7%, against 2.8% on two-year plans
 - A risk model (AUC 0.846) finds 66.4% of leavers in the riskiest 30% of customers
 
-### [Data Analyst Job Market in India](https://github.com/nidak7/talentscope-analytics)
-Which skills do employers ask for in data analyst jobs? Job postings from the Adzuna API, analysed with Python and SQL and shown in a Power BI dashboard.
+### [TalentScope: Job Market and Skill Gap Analysis](https://github.com/nidak7/talentscope-analytics)
+Which skills do employers ask for in ten different roles in India, and what is a candidate missing for the role they want? Job postings from the Adzuna API, analysed with Python and SQL, with a skill-gap check and a Power BI dashboard.
 
-- SQL is mentioned in 67% of "data analyst" postings, Python and Excel in about 45% each
-- Power BI is asked for more often than Tableau (36% vs 29%)
-- About 13% of postings mention remote work, and a middle salary of about 7.25 lakh a year where one is stated
+- Each role has its own skill set: SQL is in 67% of data analyst postings, Python in 83% of data scientist postings, and "requirements" in 90% of business analyst postings
+- Excel appears across 8 of the 10 roles; only 7 skills are shared by three or more roles
+- A skill-gap score compares a candidate's skills with a target role's top 8 skills, and works as a Python script, a SQL query and a Power BI measure
 
 ## Connect
 
