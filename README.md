@@ -21,7 +21,7 @@ I turn raw data into clear, decision-ready answers. My work covers cleaning and 
 | **Modelling** | scikit-learn, Logistic Regression, model evaluation |
 | **Tools** | Git, PostgreSQL, SQLite, FastAPI |
 
-## Featured project
+## Featured projects
 
 ### [Customer Churn Intelligence](https://github.com/nidak7/customer-churn-intelligence-platform)
 SQL, Python and Power BI analysis of 7,043 telecom customers: who leaves, why, and who to contact first.
@@ -29,6 +29,13 @@ SQL, Python and Power BI analysis of 7,043 telecom customers: who leaves, why, a
 - 26.5% of customers churned, taking 30.5% of monthly revenue
 - Month-to-month contracts churn at 42.7%, against 2.8% on two-year plans
 - A risk model (AUC 0.846) finds 66.4% of leavers in the riskiest 30% of customers
+
+### [Data Analyst Job Market in India](https://github.com/nidak7/talentscope-analytics)
+Which skills do employers ask for in data analyst jobs? Job postings from the Adzuna API, analysed with Python and SQL and shown in a Power BI dashboard.
+
+- SQL is mentioned in 67% of "data analyst" postings, Python and Excel in about 45% each
+- Power BI is asked for more often than Tableau (36% vs 29%)
+- About 13% of postings mention remote work, and a middle salary of about 7.25 lakh a year where one is stated
 
 ## Connect
 
