@@ -1,6 +1,6 @@
 # Hi, I'm Nida Farheen Khan
 
-**Data Analyst** | SQL · Python · Power BI · Statistics | Open to remote roles
+**Data Analyst** | SQL · Python · Power BI · Statistics | Open to work
 
 I turn raw data into clear, decision-ready answers. My work covers cleaning and validating data, exploring it with SQL and Python, testing what the patterns mean statistically, and presenting the results in dashboards that non-technical teams can act on. MBA in Data Science & Business Analytics.
 
