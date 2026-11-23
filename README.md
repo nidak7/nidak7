@@ -2,27 +2,33 @@
 
 **Data Analyst** | SQL · Python · Power BI · Statistics | Open to remote roles
 
-I turn messy business data into clear answers: who is leaving, why, and what to do about it. MBA in Data Science & Business Analytics.
+I turn raw data into clear, decision-ready answers. My work covers cleaning and validating data, exploring it with SQL and Python, testing what the patterns mean statistically, and presenting the results in dashboards that non-technical teams can act on. MBA in Data Science & Business Analytics.
 
-## Featured project
+## What I do
 
-### [Customer Churn Intelligence](https://github.com/nidak7/customer-churn-intelligence-platform)
-7,043 telecom customers analysed with SQL, Python and Power BI.
-
-- **26.5%** of customers churned, taking **30.5%** of monthly revenue with them
-- Month-to-month contracts churn at **42.7%** against **2.8%** on two-year plans
-- Highest-risk segment: new fibre customers paying by electronic check, **71.2%** churn
-- Logistic Regression (AUC 0.846): the riskiest 30% of customers contain **66.4%** of leavers
-- A 10% save rate on churners is worth about **$167K a year**
+- **Clean and prepare data:** handle missing values, duplicates and type issues so the numbers can be trusted
+- **Analyse:** SQL (joins, CTEs, window functions), Python (Pandas, NumPy, SciPy), exploratory and statistical analysis
+- **Visualise:** Power BI dashboards with DAX and Power Query
+- **Predict:** scikit-learn models, evaluated on data they have not seen
+- **Communicate:** findings written for business readers, with recommendations
 
 ## Skills
 
 | | |
 |---|---|
-| **Analysis** | SQL (CTEs, window functions), Python (Pandas, NumPy, SciPy), statistical testing, EDA |
-| **Visualisation** | Power BI, DAX, Power Query, React/Recharts |
+| **Analysis** | SQL, Python (Pandas, NumPy, SciPy), statistical testing, EDA |
+| **Visualisation** | Power BI, DAX, Power Query, Excel |
 | **Modelling** | scikit-learn, Logistic Regression, model evaluation |
-| **Tools** | Git, Excel, FastAPI, PostgreSQL, SQLite |
+| **Tools** | Git, PostgreSQL, SQLite, FastAPI |
+
+## Featured project
+
+### [Customer Churn Intelligence](https://github.com/nidak7/customer-churn-intelligence-platform)
+SQL, Python and Power BI analysis of 7,043 telecom customers: who leaves, why, and who to contact first.
+
+- 26.5% of customers churned, taking 30.5% of monthly revenue
+- Month-to-month contracts churn at 42.7%, against 2.8% on two-year plans
+- A risk model (AUC 0.846) finds 66.4% of leavers in the riskiest 30% of customers
 
 ## Connect
 
