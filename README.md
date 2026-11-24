@@ -1,42 +1,19 @@
 # Hi, I'm Nida Farheen Khan
 
-**Data Analyst** | SQL · Python · Power BI · Statistics | Open to work
+Data Analyst | SQL · Python · Power BI · Statistics | Open to work
 
-I turn raw data into clear, decision-ready answers. My work covers cleaning and validating data, exploring it with SQL and Python, testing what the patterns mean statistically, and presenting the results in dashboards that non-technical teams can act on. MBA in Data Science & Business Analytics.
+I have an MBA in Data Science and Business Analytics. I like working with messy data, finding out what's going on in it, and putting the result in a dashboard or a short write-up that other people can use.
 
-## What I do
+Tools I use: SQL, Python (Pandas, NumPy, SciPy, scikit-learn), Power BI with DAX and Power Query, Excel and Git. I've also used FastAPI, PostgreSQL and SQLite.
 
-- **Clean and prepare data:** handle missing values, duplicates and type issues so the numbers can be trusted
-- **Analyse:** SQL (joins, CTEs, window functions), Python (Pandas, NumPy, SciPy), exploratory and statistical analysis
-- **Visualise:** Power BI dashboards with DAX and Power Query
-- **Predict:** scikit-learn models, evaluated on data they have not seen
-- **Communicate:** findings written for business readers, with recommendations
+## Projects
 
-## Skills
-
-| | |
-|---|---|
-| **Analysis** | SQL, Python (Pandas, NumPy, SciPy), statistical testing, EDA |
-| **Visualisation** | Power BI, DAX, Power Query, Excel |
-| **Modelling** | scikit-learn, Logistic Regression, model evaluation |
-| **Tools** | Git, PostgreSQL, SQLite, FastAPI |
-
-## Featured projects
-
-### [Customer Churn Intelligence](https://github.com/nidak7/customer-churn-intelligence-platform)
-SQL, Python and Power BI analysis of 7,043 telecom customers: who leaves, why, and who to contact first.
-
-- 26.5% of customers churned, taking 30.5% of monthly revenue
-- Month-to-month contracts churn at 42.7%, against 2.8% on two-year plans
-- A risk model (AUC 0.846) finds 66.4% of leavers in the riskiest 30% of customers
+### [Customer Churn Analysis](https://github.com/nidak7/customer-churn-intelligence-platform)
+I looked at 7,043 telecom customers to see who leaves and why, then built a simple model and a Power BI dashboard to show who the retention team should call first. About 26.5% of customers left, and month-to-month customers left far more often than two-year customers (42.7% against 2.8%).
 
 ### [TalentScope: Job Market and Skill Gap Analysis](https://github.com/nidak7/talentscope-analytics)
-Which skills do employers ask for in ten different roles in India, and what is a candidate missing for the role they want? Job postings from the Adzuna API, analysed with Python and SQL, with a skill-gap check and a Power BI dashboard.
+I collected job postings for ten roles in India and counted which skills each role asks for. Then I built a skill-gap check that compares a person's skills with a role. For example, SQL is in 67% of data analyst postings and Python is in 83% of data scientist postings.
 
-- Each role has its own skill set: SQL is in 67% of data analyst postings, Python in 83% of data scientist postings, and "requirements" in 90% of business analyst postings
-- Excel appears across 8 of the 10 roles; only 7 skills are shared by three or more roles
-- A skill-gap score compares a candidate's skills with a target role's top 8 skills, and works as a Python script, a SQL query and a Power BI measure
-
-## Connect
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/nida-khan-237715279)
