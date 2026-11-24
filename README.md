@@ -2,9 +2,9 @@
 
 Data Analyst | SQL · Python · Power BI · Statistics | Open to work
 
-I have an MBA in Data Science and Business Analytics. I like working with messy data, finding out what's going on in it, and putting the result in a dashboard or a short write-up that other people can use.
+I'm finishing my MBA in Data Science and Business Analytics. I like working with messy data, finding out what's going on in it, and putting the result in a dashboard or a short write-up that other people can use.
 
-Tools I use: SQL, Python (Pandas, NumPy, SciPy, scikit-learn), Power BI with DAX and Power Query, Excel and Git. I've also used FastAPI, PostgreSQL and SQLite.
+Tools I use: SQL (PostgreSQL, MySQL, SQLite), Python (Pandas, NumPy, SciPy, scikit-learn), Power BI with DAX and Power Query, Excel and Git.
 
 ## Projects
 
@@ -14,13 +14,15 @@ I looked at 7,043 telecom customers to see who leaves and why, then built a simp
 ### [TalentScope: Job Market and Skill Gap Analysis](https://github.com/nidak7/talentscope-analytics)
 I collected job postings for ten roles in India and counted which skills each role asks for. Then I built a skill-gap check that compares a person's skills with a role. For example, SQL is in 67% of data analyst postings and Python is in 83% of data scientist postings.
 
+### [The Delivery Gap: Late Deliveries and Reviews](https://github.com/nidak7/delivery-gap)
+I loaded about 99,000 orders from a Brazilian online store into PostgreSQL and checked how often it misses the delivery date it promises. About 7% of orders came late, and those got an average review of 2.3 out of 5 against 4.3 for the rest. Most orders came almost two weeks early, but cutting every promise by a few days would make many more orders late, so I suggest fixing the slow routes and sellers first.
+
 ## Earlier projects
 
-Before moving into data analytics I built backend projects, first in Java and Spring Boot and later in Python. They're older work, but they're where I got used to databases, APIs and SQL.
+Before data analytics I built backend projects in Java, Spring Boot and Python. That's where I first worked with databases, APIs and SQL.
 
-- Java and Spring Boot: [myblog1](https://github.com/nidak7/myblog1) (blog API), [ast-rule-engine](https://github.com/nidak7/ast-rule-engine) (rule engine), [WeatherMonitoringSystem](https://github.com/nidak7/WeatherMonitoringSystem) (weather summaries and alerts, with a React front end), [Spring_Assignment](https://github.com/nidak7/Spring_Assignment) (social feed API with Redis limits)
-- Python: [credit-approval-system](https://github.com/nidak7/credit-approval-system) (Django loan API), [api-first-video-app](https://github.com/nidak7/api-first-video-app) (Flask and MongoDB), [ai-first-crm-hcp](https://github.com/nidak7/ai-first-crm-hcp) (FastAPI and React), [finance-dashboard-backend](https://github.com/nidak7/finance-dashboard-backend) (FastAPI), [mission-critical-ims-assignment-2026-04-30](https://github.com/nidak7/mission-critical-ims-assignment-2026-04-30) (incident tracker), [transaction-pipeline](https://github.com/nidak7/transaction-pipeline) (FastAPI and Celery)
-- Smaller front end projects: [zakat-calculator](https://github.com/nidak7/zakat-calculator), [next-hero](https://github.com/nidak7/next-hero)
+- Java and Spring Boot: [myblog1](https://github.com/nidak7/myblog1), [ast-rule-engine](https://github.com/nidak7/ast-rule-engine), [WeatherMonitoringSystem](https://github.com/nidak7/WeatherMonitoringSystem), [Spring_Assignment](https://github.com/nidak7/Spring_Assignment)
+- Python: [credit-approval-system](https://github.com/nidak7/credit-approval-system), [api-first-video-app](https://github.com/nidak7/api-first-video-app), [finance-dashboard-backend](https://github.com/nidak7/finance-dashboard-backend), [transaction-pipeline](https://github.com/nidak7/transaction-pipeline) and a few more on my repositories page
 
 ## Contact
 
